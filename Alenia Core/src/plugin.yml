@@ -1,0 +1,11 @@
+name: AleniaCore
+main: com.alenia.AleniaCore.AleniaCore
+version: 0.1
+author: Alenia Developers
+commands:
+   alenia:
+      description: The Alenia Root Command
+      permission: aleniacore.admin
+permissions:
+   aleniacore.admin:
+     description: Allows Alenia admin commands usage.
